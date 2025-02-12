@@ -1,6 +1,6 @@
 ---
 title: "In Class Lab"
-author: "Dr. Shoemaker"
+author: "Rudolph Allen"
 date: "DATA 2401"
 output: html_document
 ---
